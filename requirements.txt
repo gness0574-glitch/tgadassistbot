@@ -1,0 +1,4 @@
+telethon>=1.36
+python-dotenv>=1.0
+langdetect>=1.0.9
+anthropic>=0.40
